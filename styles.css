@@ -1,13 +1,16 @@
 h1 {
     font-size: 48px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 body {
     text-align: center;
     background-color: rgb(181, 240, 237);
+    font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
     color: rgb(255, 255, 255);
+    font-family: "Times New Roman", Times, serif;
 }
 
